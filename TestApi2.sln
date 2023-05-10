@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApi2", "TestApi2\TestApi2.csproj", "{BE6D0393-47DF-4C12-B362-968D5C29A58F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "db2", "db2\db2.csproj", "{AD28CD35-E274-4006-A3FD-DF34BD34B0CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE6D0393-47DF-4C12-B362-968D5C29A58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6D0393-47DF-4C12-B362-968D5C29A58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6D0393-47DF-4C12-B362-968D5C29A58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6D0393-47DF-4C12-B362-968D5C29A58F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD28CD35-E274-4006-A3FD-DF34BD34B0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD28CD35-E274-4006-A3FD-DF34BD34B0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD28CD35-E274-4006-A3FD-DF34BD34B0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD28CD35-E274-4006-A3FD-DF34BD34B0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B41450A6-F243-4A8A-AC5D-4A93FB20B10F}
+	EndGlobalSection
+EndGlobal
